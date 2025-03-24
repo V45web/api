@@ -1,7 +1,7 @@
 # Memeapi
 Generates random memes from database.js There are almost 100+ memes and it's update every week so no same memes every time. 
 
-> [!note]
+> [!NOTE]
 > This APIs only work on web using JavaScript.
 
 ## Installation
