@@ -7,7 +7,7 @@ Generates random memes from database.js There are almost 100+ memes and it's upd
 ## Installation
 1. Paste this HTML script into you project
 ```html
-<script type="module" src="memeapi.js"></script>
+<script type="module" src="https://v45web.github.io/api/memeapi/memeapi.js"></script>
 ```
 
 ## Used
